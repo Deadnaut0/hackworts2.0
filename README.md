@@ -36,12 +36,14 @@ To enhance engagement and learning outcomes for young students through game-like
 - Present our project vision and impact at the hackathon.
 
 # 🧑‍💻 Team
-Name		GitHub Handle
-[mazen]		@Deadnaut0
-[hassen]    @hassen
-[mouadh]	@mouadh
-[hisham]	@Hialja
-[kousay]    @kossaych
+| Name          | GitHub Handle |
+| ------------- | ------------- |
+| mazen         |   @Deadnaut0  |
+| hassen        |   @hassen     |
+| mouadh        |   @mouadh     |
+| hisham        |   @Hialja     |
+| kousay        |   @kossaych   |
+
 
 # 🙌 Acknowledgments
 Special thanks to the 9antra Kids platform and all hackathon organizers!
